@@ -7,6 +7,10 @@ namespace git_test_2
         static void Main(string[] args)
         {
             Console.WriteLine("Witaj Michał");
+            Console.WriteLine("Witaj Michał");
+            Console.WriteLine("Witaj Arek");
+            Console.WriteLine("Witaj Michał");
+            Console.WriteLine("Witaj Damian");
         }
     }
 }
